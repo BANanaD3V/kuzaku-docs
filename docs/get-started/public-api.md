@@ -4,11 +4,7 @@
 
 Стоить приметить, что на текущий момент API находится в разработке. Поэтому, существует только **2** публичных эндпоинта, которые может использовать каждый. В будущем возможности API будут значительно расширятся.
 
-### Получить статистику бота 
-
-| url      | Метод                          |
-| :---------- | :----------------------------------- |
-| `https://kuzaku.ml/api/v1/statistic/`       | `GET`  |
+### Получить статистику бота <div style='display: inline;'><p style=' margin-left: 5px; display: inline-block; background-color: #3884FF; width: 70px; border-radius: 20px; padding: 5px; text-align:center;'>GET</p></div>
 
 ??? success "Ответ в случае успеха"
     ```
@@ -38,11 +34,7 @@
     }
     ```
 
-### Пингануть бота
-
-| url      | Метод                          |
-| :---------- | :----------------------------------- |
-| `https://kuzaku.ml/api/v1/ping/`       | `GET`  |
+### Пингануть бота <div style='display: inline;'><p style=' margin-left: 5px; display: inline-block; background-color: #3884FF; width: 70px; border-radius: 20px; padding: 5px; text-align:center;'>GET</p></div>
 
 ??? success "Ответ в случае успеха"
     ```
