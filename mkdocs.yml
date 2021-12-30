@@ -2,7 +2,7 @@ site_name: Kuzaku — Документация
 
 repo_url: https://github.com/kuzaku-developers/kuzaku-docs
 repo_name: kuzaku-developers/kuzaku-docs
-copyright: Copyright &copy; 2021 - 2021 BANana
+copyright: Copyright &copy; 2021 - 2022 BANana
 extra_css:
   - stylesheets/extra.css
 markdown_extensions:
@@ -59,7 +59,7 @@ nav:
   - 'Полезные ссылки':
     - 'Контакты разработчиков': 'good-links/contacts.md'
     - 'Оффициальный вебсайт 🌐': 'https://kuzaku.ml'
-    - 'Пригласить Kuzaku 🌐': 'https://discord.com/oauth2/authorize?client_id=778648045960298568&scope=bot+applications.commands&permissions=473197655'
+    - 'Пригласить Kuzaku 🌐': 'https://discord.com/oauth2/authorize?client_id=781404915142492171&scope=bot+applications.commands&permissions=473197655'
     
   - 'Другое':
     - 'Часто задаваемые вопросы': 'another/faq.md'
